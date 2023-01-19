@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ogdmerlinr" target="blank"><img src="https://img.shields.io/twitter/follow/ogdmerlinr?logo=twitter&style=for-the-badge" alt="ogdmerlinr" /></a> </p>
 
-- 🌱 I’m currently learning and developing my skills in **C, Python && Javascript.**
+- 🌱 I’m currently learning **Fullstack Engineering.**
 
-- 👯 I’m looking to collaborate on **Open Source Projects.**
+- 👯 I’m looking to collaborate on **Projects.**
 
-- 👨‍💻 All of my projects are available at [ogdmerlin.com](ogdmerlin.com)
+- 👨‍💻 My website(currently under development) [ogdmerlin.com](ogdmerlin.com)
 
 - 📫 How to reach me **ogdmerlin@gmail.com**
 
