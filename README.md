@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ogdmerlinr" target="blank"><img src="https://img.shields.io/twitter/follow/ogdmerlinr?logo=twitter&style=for-the-badge" alt="ogdmerlinr" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack Engineering.**
+- 🌱 I’m currently learning **Backend Engineering.**
 
 - 👯 I’m looking to collaborate on **Projects.**
 
