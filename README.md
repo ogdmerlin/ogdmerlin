@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ogdmerlinn" target="blank"><img src="https://img.shields.io/twitter/follow/ogdmerlinn?logo=twitter&style=for-the-badge" alt="ogdmerlinn" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Engineering && Ethical Hacking(Penetration Testing).**
-
-- 👯 I’m looking to collaborate on some **Open Source Projects.**
-
-- 👨‍💻 My website(currently under development).
+- 🌱 I’m currently learning **Cloud DevOps Engineering && Ethical Hacking(Penetration Testing).**
 
 - 📫 How to reach me **ogdmerlin@gmail.com**
 
