@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ogdmerlinn" target="blank"><img src="https://img.shields.io/twitter/follow/ogdmerlinn?logo=twitter&style=for-the-badge" alt="ogdmerlinn" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud DevOps Engineering && Security Engineering.**
+- 🌱 I’m currently learning **All Things Cloud + Security Engineering.**
 
 - 📫 How to reach me **ogdmerlin@gmail.com**
 
